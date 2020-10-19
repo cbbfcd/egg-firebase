@@ -1,6 +1,6 @@
 {
   "name": "egg-firebase",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "a plugin for firebase-admin",
   "eggPlugin": {
     "name": "firebase"
